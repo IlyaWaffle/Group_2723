@@ -1,3 +1,3 @@
 # Андрей Киреев
 ## Adeptuslun
-![вот так вот](SCREENSHOT.bmp)
+![вот так вот](SCREENSHOT.jpg)

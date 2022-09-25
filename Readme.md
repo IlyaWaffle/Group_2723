@@ -1,1 +1,2 @@
-Standart readme
+# Дмитрий Саммусенко
+# Dimaster99

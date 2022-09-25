@@ -1,1 +1,2 @@
-Standart readme
+Yacheikina Viktoriia
+YachVikcd cd

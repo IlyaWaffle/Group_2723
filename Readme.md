@@ -1,1 +1,1 @@
-Standart readme
+Rezapov Vyacheslav

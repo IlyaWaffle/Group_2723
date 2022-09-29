@@ -1,1 +1,5 @@
-Standart readme
+Strokova Irina
+
+Дописана инструкция по работе с GIT
+
+Удалено два файла

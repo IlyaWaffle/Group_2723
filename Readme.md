@@ -1,1 +1,1 @@
-Standart readme
+Anna Mikryukova

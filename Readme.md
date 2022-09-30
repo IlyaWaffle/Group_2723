@@ -1,1 +1,1 @@
-Standart readme
+Labutin Oleg
